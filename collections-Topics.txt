@@ -1,0 +1,8 @@
+1. ArrayList
+2. Linked Lists
+3. HashMap
+4. Sorted Map
+5. Sets
+6. Custom Objs as keys
+7. Sorting Lists
+8. Natural Ordering
